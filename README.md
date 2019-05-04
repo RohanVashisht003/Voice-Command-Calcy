@@ -1,5 +1,5 @@
 # Voice-Command-Calcy
-A voice controlled calculator for performing: 
+A voice controlled calculator for performing basic operations like: 
 Addition
 Subtraction
 Highest common factor
