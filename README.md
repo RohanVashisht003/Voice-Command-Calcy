@@ -1,2 +1,9 @@
 # Voice-Command-Calcy
-Voice controlled calculator.
+A voice controlled calculator for performing: 
+Addition
+Subtraction
+Highest common factor
+Lowest common factor
+Division 
+Multiplication. 
+You don't need to press keys to perform basic calculations You can simply give commands from your voice.
